@@ -1,0 +1,101 @@
+flight_date,flight_status,departure_airport,departure_iata,departure_delay,arrival_airport,arrival_iata,arrival_delay,airline_name,flight_number,flight_iata
+2026-08-16,,Moree,MRZ,,Gold Coast (coolangatta),OOL,,empty,,
+2026-08-15,active,Chengdu Tianfu International Airport,TFU,,Shanghai Pudong International,PVG,14.0,China Express Airlines,8885.0,G58885
+2026-08-15,active,Chengdu Tianfu International Airport,TFU,,Shanghai Pudong International,PVG,14.0,China Eastern Airlines,3361.0,MU3361
+2026-08-15,active,Chengdu Tianfu International Airport,TFU,,Shanghai Pudong International,PVG,14.0,Xiamen Air,4819.0,MF4819
+2026-08-15,active,Chengdu Tianfu International Airport,TFU,,Shanghai Pudong International,PVG,14.0,Juneyao Air,5794.0,HO5794
+2026-08-15,active,Chengdu Tianfu International Airport,TFU,,Shanghai Pudong International,PVG,14.0,Chengdu Airlines,7301.0,EU7301
+2026-08-15,active,Chengdu Tianfu International Airport,TFU,,Shanghai Pudong International,PVG,14.0,China Southern Airlines,4915.0,CZ4915
+2026-08-15,scheduled,Lanzhou Zhongchuan Airport,LHW,,Nanjing Lukou International Airport,NKG,,China Express Airlines,5121.0,G55121
+2026-08-15,scheduled,Lanzhou Zhongchuan Airport,LHW,,Taiyuan,TYN,,Shenzhen Airlines,2598.0,ZH2598
+2026-08-15,active,Son Sant Joan Airport,PMI,,Ibiza,IBZ,,empty,,
+2026-08-15,scheduled,Copernicus Airport,WRO,,Prague Vaclav Havel Airport,PRG,,Ryanair,,FR
+2026-08-15,scheduled,Lawica,POZ,,Larnaca,LCA,,Ryanair,,RR
+2026-08-15,active,Port Hedland,PHE,,,CKW,,Alliance Airlines,6360.0,QQ6360
+2026-08-15,scheduled,Perth International,PER,,Singapore Changi,SIN,,Virgin Australia,5526.0,VA5526
+2026-08-15,scheduled,Perth International,PER,,Singapore Changi,SIN,,Turkish Airlines,9307.0,TK9307
+2026-08-15,scheduled,Perth International,PER,,Singapore Changi,SIN,,SAS,8094.0,SK8094
+2026-08-15,scheduled,Perth International,PER,,Singapore Changi,SIN,,Swiss,9027.0,LX9027
+2026-08-15,scheduled,Perth International,PER,,Singapore Changi,SIN,,Lufthansa,9779.0,LH9779
+2026-08-15,scheduled,Perth International,PER,,Singapore Changi,SIN,,Ethiopian Airlines,1314.0,ET1314
+2026-08-15,scheduled,Perth International,PER,,Singapore Changi,SIN,,Air India,8239.0,AI8239
+2026-08-15,scheduled,Perth International,PER,,Adelaide International Airport,ADL,,Qatar Airways,6320.0,QR6320
+2026-08-15,scheduled,Perth International,PER,,Adelaide International Airport,ADL,,China Southern Airlines,1091.0,CZ1091
+2026-08-15,scheduled,Perth International,PER,,Sydney Kingsford Smith Airport,SYD,,United Airlines,7419.0,UA7419
+2026-08-15,scheduled,Perth International,PER,,Sydney Kingsford Smith Airport,SYD,,Singapore Airlines,6883.0,SQ6883
+2026-08-15,scheduled,Perth International,PER,,Sydney Kingsford Smith Airport,SYD,,Qatar Airways,8918.0,QR8918
+2026-08-15,scheduled,Perth International,PER,,Sydney Kingsford Smith Airport,SYD,,Air Canada,2738.0,AC2738
+2026-08-15,cancelled,Beijing Capital International,PEK,,Hangzhou,HGH,,Lufthansa,7086.0,LH7086
+2026-08-15,scheduled,Beijing Capital International,PEK,,Shanghai Hongqiao International,SHA,,Shenzhen Airlines,1521.0,ZH1521
+2026-08-15,scheduled,Beijing Capital International,PEK,,Shanghai Hongqiao International,SHA,,Shandong Airlines,5414.0,SC5414
+2026-08-15,scheduled,Beijing Capital International,PEK,,Shanghai Hongqiao International,SHA,,Lufthansa,7140.0,LH7140
+2026-08-15,scheduled,Beijing Capital International,PEK,,Dali,DLU,,Shenzhen Airlines,1499.0,ZH1499
+2026-08-15,scheduled,Beijing Capital International,PEK,,,JHG,,Shenzhen Airlines,1423.0,ZH1423
+2026-08-15,scheduled,Beijing Capital International,PEK,,Xichang,XIC,,Shenzhen Airlines,1497.0,ZH1497
+2026-08-15,scheduled,Beijing Capital International,PEK,,Kashi,KHG,,Shenzhen Airlines,1249.0,ZH1249
+2026-08-15,cancelled,Beijing Capital International,PEK,,Shuangliu,CTU,,Shenzhen Airlines,4318.0,ZH4318
+2026-08-15,cancelled,Beijing Capital International,PEK,,Shuangliu,CTU,,Lufthansa,7074.0,LH7074
+2026-08-15,scheduled,Beijing Capital International,PEK,,Nanjing Lukou International Airport,NKG,,Shenzhen Airlines,1561.0,ZH1561
+2026-08-15,scheduled,Beijing Capital International,PEK,,Nanjing Lukou International Airport,NKG,,Shandong Airlines,5793.0,SC5793
+2026-08-15,scheduled,Beijing Capital International,PEK,,Nanjing Lukou International Airport,NKG,,Lufthansa,7090.0,LH7090
+2026-08-15,scheduled,Beijing Capital International,PEK,,Fenghuang International (Phoenix International),SYX,,Shenzhen Airlines,1353.0,ZH1353
+2026-08-15,scheduled,Beijing Capital International,PEK,,Zhuhai Airport,ZUH,,Shandong Airlines,5705.0,SC5705
+2026-08-15,scheduled,Beijing Capital International,PEK,,Shanghai Hongqiao International,SHA,,Xiamen Air,3568.0,MF3568
+2026-08-15,scheduled,Beijing Capital International,PEK,,Shanghai Hongqiao International,SHA,,Sichuan Airlines,5154.0,3U5154
+2026-08-15,scheduled,Beijing Capital International,PEK,,Chongqing Jiangbei International,CKG,,Shandong Airlines,5037.0,SC5037
+2026-08-15,scheduled,Beijing Capital International,PEK,,Chongqing Jiangbei International,CKG,,Lufthansa,7070.0,LH7070
+2026-08-15,scheduled,Beijing Capital International,PEK,,Shenzhen,SZX,,Shenzhen Airlines,1397.0,ZH1397
+2026-08-15,scheduled,Beijing Capital International,PEK,,Shenzhen,SZX,,Lufthansa,7138.0,LH7138
+2026-08-15,scheduled,Beijing Capital International,PEK,,Xianyang,XIY,,Shenzhen Airlines,1201.0,ZH1201
+2026-08-15,scheduled,Beijing Capital International,PEK,,Xianyang,XIY,,Shandong Airlines,5345.0,SC5345
+2026-08-15,scheduled,Beijing Capital International,PEK,,Xianyang,XIY,,Air New Zealand,3749.0,NZ3749
+2026-08-15,scheduled,Beijing Capital International,PEK,,Xianyang,XIY,,Lufthansa,7100.0,LH7100
+2026-08-15,scheduled,Beijing Capital International,PEK,,Arlanda,ARN,,TAP Air Portugal,8783.0,TP8783
+2026-08-15,scheduled,Beijing Capital International,PEK,,,BAR,,Tianjin Airlines,5777.0,GS5777
+2026-08-15,scheduled,Beijing Capital International,PEK,,,URC,,Hong Kong Airlines,1245.0,HX1245
+2026-08-15,scheduled,Beijing Capital International,PEK,,Suvarnabhumi International,BKK,,Shandong Airlines,129.0,SC129
+2026-08-15,scheduled,Beijing Capital International,PEK,,Taiwan Taoyuan International (Chiang Kai Shek International),TPE,,EVA Air,2765.0,BR2765
+2026-08-15,scheduled,Beijing Capital International,PEK,,Taiwan Taoyuan International (Chiang Kai Shek International),TPE,,Air China,5515.0,CA5515
+2026-08-15,scheduled,Beijing Capital International,PEK,,Hangzhou,HGH,,Shenzhen Airlines,1716.0,ZH1716
+2026-08-15,scheduled,Beijing Capital International,PEK,,Hangzhou,HGH,,Shandong Airlines,5602.0,SC5602
+2026-08-15,scheduled,Beijing Capital International,PEK,,Hangzhou,HGH,,China Southern Airlines,7162.0,CZ7162
+2026-08-15,scheduled,Beijing Capital International,PEK,,Hangzhou,HGH,,Sichuan Airlines,4922.0,3U4922
+2026-08-15,scheduled,Beijing Capital International,PEK,,Luzhou,LZO,,Shenzhen Airlines,1483.0,ZH1483
+2026-08-15,scheduled,Beijing Capital International,PEK,,Hong Kong International,HKG,,Cathay Pacific,6109.0,CX6109
+2026-08-15,scheduled,Beijing Capital International,PEK,,Fuzhou,FOC,,Tibet Airlines,3087.0,TV3087
+2026-08-15,scheduled,Beijing Capital International,PEK,,Fuzhou,FOC,,China Express Airlines,8471.0,G58471
+2026-08-15,scheduled,Beijing Capital International,PEK,,Fuzhou,FOC,,Air China,4669.0,CA4669
+2026-08-15,scheduled,Beijing Capital International,PEK,,Fuzhou,FOC,,Shenzhen Airlines,2581.0,ZH2581
+2026-08-15,scheduled,Beijing Capital International,PEK,,Hangzhou,HGH,,Shenzhen Airlines,1714.0,ZH1714
+2026-08-15,scheduled,Beijing Capital International,PEK,,Hangzhou,HGH,,Shandong Airlines,5601.0,SC5601
+2026-08-15,scheduled,Beijing Capital International,PEK,,Shanghai Hongqiao International,SHA,,Shenzhen Airlines,1533.0,ZH1533
+2026-08-15,cancelled,Beijing Capital International,PEK,,Chengdu Tianfu International Airport,TFU,,Shenzhen Airlines,1417.0,ZH1417
+2026-08-15,scheduled,Beijing Capital International,PEK,,Xining,XNN,,Shenzhen Airlines,1203.0,ZH1203
+2026-08-15,scheduled,Beijing Capital International,PEK,,Macau International,MFM,,Shenzhen Airlines,3367.0,ZH3367
+2026-08-15,scheduled,Beijing Capital International,PEK,,Macau International,MFM,,Shandong Airlines,237.0,SC237
+2026-08-15,scheduled,Beijing Capital International,PEK,,Macau International,MFM,,Air China,5453.0,CA5453
+2026-08-15,scheduled,Beijing Capital International,PEK,,Shenzhen,SZX,,Shandong Airlines,9138.0,SC9138
+2026-08-15,scheduled,Beijing Capital International,PEK,,Shenzhen,SZX,,Air China,3402.0,CA3402
+2026-08-15,scheduled,Beijing Capital International,PEK,,Harbin,HRB,,Shenzhen Airlines,1623.0,ZH1623
+2026-08-15,scheduled,Beijing Capital International,PEK,,Harbin,HRB,,Shandong Airlines,5746.0,SC5746
+2026-08-15,scheduled,Beijing Capital International,PEK,,Harbin,HRB,,Air New Zealand,3962.0,NZ3962
+2026-08-15,scheduled,Beijing Capital International,PEK,,Yinchuan,INC,,Shenzhen Airlines,1227.0,ZH1227
+2026-08-15,scheduled,Beijing Capital International,PEK,,Yinchuan,INC,,Shandong Airlines,5770.0,SC5770
+2026-08-15,scheduled,Beijing Capital International,PEK,,Hong Kong International,HKG,,Air China,6503.0,CA6503
+2026-08-15,scheduled,Beijing Capital International,PEK,,Shanghai Hongqiao International,SHA,,Xiamen Air,3564.0,MF3564
+2026-08-15,scheduled,Beijing Capital International,PEK,,Shanghai Hongqiao International,SHA,,Sichuan Airlines,5150.0,3U5150
+2026-08-15,scheduled,Beijing Capital International,PEK,,Shuangliu,CTU,,Shenzhen Airlines,4322.0,ZH4322
+2026-08-15,scheduled,Beijing Capital International,PEK,,Pan Zhi Hua Bao An Ying,PZI,,Shenzhen Airlines,1485.0,ZH1485
+2026-08-15,scheduled,Beijing Capital International,PEK,,Guangzhou Baiyun International,CAN,,Shenzhen Airlines,1339.0,ZH1339
+2026-08-15,scheduled,Beijing Capital International,PEK,,Shenzhen,SZX,,Shenzhen Airlines,1341.0,ZH1341
+2026-08-15,scheduled,Beijing Capital International,PEK,,Chongqing Jiangbei International,CKG,,Shenzhen Airlines,4336.0,ZH4336
+2026-08-15,scheduled,Beijing Capital International,PEK,,Chongqing Jiangbei International,CKG,,Shandong Airlines,5232.0,SC5232
+2026-08-15,scheduled,Beijing Capital International,PEK,,Xianyang,XIY,,Hong Kong Airlines,1237.0,HX1237
+2026-08-15,scheduled,Beijing Capital International,PEK,,Kunming,KMG,,Shenzhen Airlines,4354.0,ZH4354
+2026-08-15,scheduled,Beijing Capital International,PEK,,Kunming,KMG,,Shandong Airlines,5206.0,SC5206
+2026-08-15,scheduled,Beijing Capital International,PEK,,Dunhuang,DNH,,Shenzhen Airlines,1285.0,ZH1285
+2026-08-15,scheduled,Beijing Capital International,PEK,,Aksu,AKU,,Shenzhen Airlines,1297.0,ZH1297
+2026-08-15,scheduled,Beijing Capital International,PEK,,Aksu,AKU,,Shandong Airlines,5003.0,SC5003
+2026-08-15,scheduled,Beijing Capital International,PEK,,Lanzhou Zhongchuan Airport,LHW,,Shenzhen Airlines,1271.0,ZH1271
+2026-08-15,scheduled,Beijing Capital International,PEK,,Lanzhou Zhongchuan Airport,LHW,,Air New Zealand,3908.0,NZ3908
+2026-08-15,scheduled,Beijing Capital International,PEK,,Xianyang,XIY,,Shenzhen Airlines,1223.0,ZH1223
